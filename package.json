@@ -1,7 +1,7 @@
 {
   "name": "sadsa",
   "homepage": "https://sen-Saptarshi.github.io/gen-ai/",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
